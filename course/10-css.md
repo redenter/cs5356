@@ -1,4 +1,0 @@
- - Reset
- - Bootstrap
- - Responsive
- - CSS, SASS, LESS

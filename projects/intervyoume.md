@@ -17,4 +17,14 @@ With the sad and ever-present concept of unemployment, there will always be a de
 Waffle io - Follow us here:
 https://waffle.io/D-Speiser/intervyoume
 
-Note - This is a private repo.
+### Git Repo
+
+https://github.com/D-Speiser/intervyoume
+
+Note - This is a private repo. You can find the full README directly in the repo itself.
+
+### View Our WebApp
+
+[IntervYouMe!](https://intervyoume.herokuapp.com)
+
+Note - This is on a free heroku remote, please allow time for the app and webpage to load.

@@ -11,7 +11,7 @@ There are many sites that allow Bitcoin gambling, like Satoshibet, and making on
 
 ### Team
 
-[Harrison Gregg](/people/harrison-gregg.md), [Rishav Kanoria](/people/rishav-kanoria.md), [Haiwei Su](/people/haiwei-su.md)
+[Harrison Gregg](/people/harrison-gregg.md), [Haiwei Su](/people/haiwei-su.md)
 
 ### Project Management
 
@@ -24,3 +24,11 @@ Our first story is [here](https://trello.com/c/FjEsJj5m/13-first-story-users-can
 ### Version Control
 
 Our code is hosted on [GitHub](https://github.com/HarrisonGregg/BlockchainGambling).
+
+### Automated Testing and Continuous Integration [![Build Status](https://travis-ci.org/HarrisonGregg/BlockchainGambling.svg)](https://travis-ci.org/HarrisonGregg/BlockchainGambling)
+
+On upload to GitHub, [Travis CI](https://travis-ci.org/HarrisonGregg/BlockchainGambling) automatically runs our Django unit tests and pushes all changes to Heroku if all tests pass.
+
+### Deployment
+
+Our webapp is hosted on [Heroku](https://mighty-journey-2253.herokuapp.com/bet/).
