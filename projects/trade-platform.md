@@ -15,10 +15,13 @@ We aim to create an online platform where all the players involved in trade, lik
 ### Github repo
 https://github.com/naveenlp/bizsouk
 
+### Deployment Link
+https://bizsouk.herokuapp.com
+
+### Build Status
+![Build Status](https://travis-ci.org/naveenlp/bizsouk.svg?branch=master)](https://travis-ci.org/naveenlp/bizsouk)
 
 ### Project Management Tool
 Pivotal Tracker
 https://www.pivotaltracker.com/n/projects/1430536
 
-### Repository
-[Bizouk](https://github.com/naveenlp/bizsouk)
